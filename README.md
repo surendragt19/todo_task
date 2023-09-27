@@ -1,5 +1,5 @@
 # Name:- Surendra Kumar Gupta
-# Emain:- surendra203niet@gmail.com
+# Email:- surendra203niet@gmail.com
 # Github link:- https://github.com/surendragt19/todo_task
 # Link:-  https://todo-task-surednras-projects.vercel.app/login
 
